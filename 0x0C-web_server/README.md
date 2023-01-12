@@ -1,8 +1,6 @@
 ```diff
 
-+ Updated and Done
-+ Author: Folorunsho Bright
-
+This project aims to learn about the roles of web servers and their processes (parent and child), and DNS roles.
 ```
 ## Tasks
 * [0-transfer_file](0-transfer_file)
